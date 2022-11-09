@@ -1,0 +1,17 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#d86bff",
+      "directory": "School"
+    },
+    {
+      "type": "ical",
+      "color": "#42ffc6",
+      "url": "https://calendar.google.com/calendar/ical/hamzeikian%40gmail.com/private-02c0ae103090b995a955bd2603390ec0/basic.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false,
+  "firstDay": 0
+}
