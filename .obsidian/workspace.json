@@ -128,9 +128,17 @@
                 "file": "SAT Studying.md"
               }
             }
+          },
+          {
+            "id": "daf1831c0254ad01",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
