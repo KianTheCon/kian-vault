@@ -115,7 +115,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -130,13 +130,13 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 392.5
   },
-  "active": "6ed871eca1e73c23",
+  "active": "86fb1c66df7a913b",
   "lastOpenFiles": [
     "Whatever/Therapy Notes.md",
     "SAT Studying.md",
