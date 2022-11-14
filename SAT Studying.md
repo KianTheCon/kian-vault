@@ -1,7 +1,7 @@
 # Schedule
 | Class                | Start | End |
 | -------------------- | ----- | --- |
-| Reading              | 9     | 9   |
+| Reading              | 9:30  | 9   |
 | Break (10 Min)       |       |     |
 | Writing and Language |       |     |
 | Math - No Calculator |       |     |
