@@ -129,46 +129,14 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "floating": {
-    "id": "26ab1cec00a5080a",
-    "type": "floating",
-    "children": [
-      {
-        "id": "bc96bfea83aa8f7e",
-        "type": "window",
-        "children": [
-          {
-            "id": "bd44aa07fac2c576",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "daf1831c0254ad01",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2661,
-        "y": 414,
-        "width": 600,
-        "height": 688,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "daf1831c0254ad01",
+  "active": "86fb1c66df7a913b",
   "lastOpenFiles": [
     "SAT Studying.md",
     "Testing.md",
