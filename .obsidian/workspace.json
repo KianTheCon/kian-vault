@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whatever/Therapy Notes.md",
+                "file": "SAT Studying.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Whatever/Therapy Notes.md",
+                "file": "SAT Studying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Whatever/Therapy Notes.md",
+                "file": "SAT Studying.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Whatever/Therapy Notes.md"
+                "file": "SAT Studying.md"
               }
             }
           },
@@ -146,8 +146,8 @@
   },
   "active": "6ed871eca1e73c23",
   "lastOpenFiles": [
-    "SAT Studying.md",
     "Whatever/Therapy Notes.md",
+    "SAT Studying.md",
     "Testing.md",
     "2022-10-18.md",
     "Untitled 1.md"
