@@ -8,4 +8,4 @@
 | Break (5 Min)        |       |     |
 | Math - Calculator    |       |     |
 | Done                 |       |     |
-<!-- --
+<!-- TBLFM: @1$3=sum(-->
