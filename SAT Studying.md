@@ -10,4 +10,4 @@
 | Done                 |       |     |
 <!-- TBLFM: @2$3=sum(@2$2) -->
 
-<iframe src="https://www.tablesgenerator.com/markdown_tables" width=500 height=750></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRVV6r365Lf0e_Kp9hEvWWhM-Z28_XOXkzFNXzzg_oj4UPQRHXhuL710QUVPKSi5HGuaa14ApLQcGwv/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
