@@ -1,5 +1,5 @@
 # Schedule
-| Class                | Start | End |
+| Subject                | Start | End |
 | -------------------- | ----- | --- |
 | Reading              | 9:30  | 9   |
 | Break (10 Min)       |       |     |
