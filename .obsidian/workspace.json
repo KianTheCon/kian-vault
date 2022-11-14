@@ -80,6 +80,14 @@
         "type": "tabs",
         "children": [
           {
+            "id": "daf1831c0254ad01",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
             "id": "aa8b1bf8bec942d5",
             "type": "leaf",
             "state": {
@@ -120,14 +128,6 @@
             }
           },
           {
-            "id": "daf1831c0254ad01",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
             "id": "86fb1c66df7a913b",
             "type": "leaf",
             "state": {
@@ -137,8 +137,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
