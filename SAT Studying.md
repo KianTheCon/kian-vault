@@ -1,11 +1,8 @@
 # testing
 
-| Item              | Grams |
-| ----------------- | ----- |
-| Whole Wheat Flour | 110   |
-| Bread Flour       | 748   |
-| Warm Water        | 691   |
-| Salt              | 18    |
-| Starter           | 40    |
-| **Total Grams**   |       |
-<!-- TBLFM: @>$2=sum(@I..@-1) -->
+| A    | B    | C    | D    |
+| ---- | ---- | ---- | ---- |
+| 1    | 2    | 5    | 6    |
+| 3    | 4    | 7    | 8    |
+| 0.13 | 0.25 | 0.63 | 0.75 |
+<!-- TBLFM: @>=(@I / @3$4);%.2f -->

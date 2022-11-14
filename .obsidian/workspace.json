@@ -120,6 +120,14 @@
             }
           },
           {
+            "id": "daf1831c0254ad01",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
             "id": "86fb1c66df7a913b",
             "type": "leaf",
             "state": {
@@ -128,23 +136,15 @@
                 "file": "SAT Studying.md"
               }
             }
-          },
-          {
-            "id": "daf1831c0254ad01",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1d2398e660322da1",
+  "active": "daf1831c0254ad01",
   "lastOpenFiles": [
     "SAT Studying.md",
     "Testing.md",
