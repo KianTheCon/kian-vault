@@ -18,8 +18,27 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0f902a151e55633",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
+            "id": "467b5b34f3a33a0e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Testing.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -136,11 +151,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "7699008f448f96de",
+  "active": "548d006b3d1949fa",
   "lastOpenFiles": [
+    "Untitled.md",
     "Testing.md",
     "2022-10-18.md",
     "Untitled 1.md"
