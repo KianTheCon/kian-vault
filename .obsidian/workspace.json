@@ -128,15 +128,23 @@
                 "file": "SAT Studying.md"
               }
             }
+          },
+          {
+            "id": "a7082994742011dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "86fb1c66df7a913b",
+  "active": "a7082994742011dd",
   "lastOpenFiles": [
     "SAT Studying.md",
     "Testing.md",
