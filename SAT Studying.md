@@ -9,3 +9,5 @@
 | Math - Calculator    |       |     |
 | Done                 |       |     |
 <!-- TBLFM: @2$3=sum(@2$2) -->
+
+<iframe src="https://www.tablesgenerator.com/markdown_tables" width=500 height=750></iframe>
