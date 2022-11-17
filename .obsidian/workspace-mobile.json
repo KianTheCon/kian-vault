@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whatever/Therapy Notes.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Whatever/Therapy Notes.md",
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Whatever/Therapy Notes.md",
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Whatever/Therapy Notes.md"
+            "file": "Untitled.md"
           }
         }
       }
@@ -124,7 +124,7 @@
   },
   "active": "076c26a8a92344c5",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Whatever/Therapy Notes.md"
+    "Whatever/Therapy Notes.md",
+    "Untitled.md"
   ]
 }
