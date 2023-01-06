@@ -66,7 +66,7 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
-      footer_type: none
+      footer_type: ${JSON.stringify(row)}
       formula_query: none
 config:
   remove_field_when_delete_column: false
