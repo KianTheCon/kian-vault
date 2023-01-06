@@ -7,7 +7,7 @@
 		{"id":"a3d54c39b4d94baa","x":-1285,"y":170,"width":379,"height":400,"type":"file","file":"Days/Habit Tracker.md"},
 		{"id":"cc9daeb44576c70f","x":-1451,"y":-369,"width":50,"height":1015,"color":"3","type":"text","text":""},
 		{"id":"8fe0fc56ce3a07f5","x":-1401,"y":646,"width":1881,"height":51,"color":"3","type":"text","text":""},
-		{"id":"7522ebb5d9436f7b","x":-585,"y":109,"width":905,"height":411,"type":"text","text":"<a class=\"weatherwidget-io\" href=\"https://forecast7.com/en/33d05n117d28/92024/?unit=us\" data-label_1=\"ENCINITAS\" data-label_2=\"WEATHER\" data-theme=\"retro-sky\" >ENCINITAS WEATHER</a>\n<script>\n!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');\n</script>"}
+		{"id":"7522ebb5d9436f7b","x":-1287,"y":-300,"width":905,"height":411,"type":"text","text":"<iframe><a class=\"weatherwidget-io\" href=\"https://forecast7.com/en/33d05n117d28/92024/?unit=us\" data-label_1=\"ENCINITAS\" data-label_2=\"WEATHER\" data-theme=\"retro-sky\" >ENCINITAS WEATHER</a>\n<script>\n!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');\n</script></iframe>"}
 	],
 	"edges":[]
 }
