@@ -27,15 +27,12 @@
             "id": "e09786080be162ed",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Dashboard.canvas",
-                "viewState": {
-                  "x": -460.5,
-                  "y": 138.5,
-                  "zoom": -0.37871025494006993,
-                  "snapToGrid": false
-                }
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -106,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas"
+                "file": "Untitled.md"
               }
             }
           },
@@ -182,13 +179,13 @@
   },
   "active": "e09786080be162ed",
   "lastOpenFiles": [
-    "Untitled.md",
     "Dashboard.canvas",
     "Whatever/Therapy Notes.md",
+    "Whatever/SAT Studying.md",
+    "Untitled.md",
     "Whatever/College Research.md",
     "Days/Habit Tracker.md",
     "Habit Tracker.md",
-    "Whatever/SAT Studying.md",
     "Days/2023-Jan-06-Fri.md",
     "Templates/Daily Note.md",
     "conflict-files-obsidian-git.md"
