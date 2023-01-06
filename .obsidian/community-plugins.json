@@ -4,5 +4,6 @@
   "calendar",
   "templater-obsidian",
   "dbfolder",
-  "dataview"
+  "dataview",
+  "obsidian-dynamic-toc"
 ]
