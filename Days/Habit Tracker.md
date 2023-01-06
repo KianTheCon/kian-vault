@@ -141,7 +141,7 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      formula_query: ${JSON.stringify(db.js)}
+      formula_query: ${JSON.stringify(db.js.isSectionExist())}
 config:
   remove_field_when_delete_column: false
   cell_size: compact
@@ -163,7 +163,7 @@ config:
   pagination_size: 10
   font_size: 16
   enable_js_formulas: true
-  formula_folder_path: 
+  formula_folder_path: js
   inline_default: false
   inline_new_position: last_field
   date_format: yyyy-MM-dd
