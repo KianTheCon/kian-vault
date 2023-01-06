@@ -11,12 +11,9 @@
             "id": "6ed871eca1e73c23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Dash.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Days/Habit Tracker.md"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dash.md",
+                "file": "Days/Habit Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dash.md",
+                "file": "Days/Habit Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dash.md"
+                "file": "Days/Habit Tracker.md"
               }
             }
           }
@@ -153,12 +150,12 @@
   },
   "active": "6ed871eca1e73c23",
   "lastOpenFiles": [
-    "Days/Habit Tracker.md",
-    "Dash.md",
-    "Calendar.md",
-    "Templates/Daily Note.md",
-    "Days/2023-Jan-06-Fri.md",
     "Days/2023-Jan-07-Sat.md",
+    "Dash.md",
+    "Templates/Daily Note.md",
+    "Days/Habit Tracker.md",
+    "Calendar.md",
+    "Days/2023-Jan-06-Fri.md",
     "Days/2023-Jan-05-Thu.md",
     "Untitled.canvas",
     "Whatever/SAT Studying.md",
