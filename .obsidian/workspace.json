@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a5598113b8db2f4b",
+        "id": "4a409a8715ca6a1d",
         "type": "tabs",
         "children": [
           {
-            "id": "a65edf3fd60b77db",
+            "id": "2d4bf061fd77c08a",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -157,12 +157,12 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "a65edf3fd60b77db",
+  "active": "2d4bf061fd77c08a",
   "lastOpenFiles": [
+    "Days/2023-Jan-06-Fri.md",
     "Days/Habit Tracker.md",
     "Days/2023-Jan-05-Thu.md",
     "Days/2023-Jan-07-Sat.md",
-    "Days/2023-Jan-06-Fri.md",
     "Days/test.md",
     "Dash.md",
     "Untitled.md",
