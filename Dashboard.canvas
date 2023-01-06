@@ -7,7 +7,7 @@
 		{"id":"a3d54c39b4d94baa","x":-1285,"y":170,"width":379,"height":400,"type":"file","file":"Days/Habit Tracker.md"},
 		{"id":"cc9daeb44576c70f","x":-1451,"y":-369,"width":50,"height":1015,"color":"3","type":"text","text":""},
 		{"id":"8fe0fc56ce3a07f5","x":-1401,"y":646,"width":1881,"height":51,"color":"3","type":"text","text":""},
-		{"id":"7522ebb5d9436f7b","x":-585,"y":109,"width":250,"height":60,"type":"text","text":"![[]]"}
+		{"id":"7522ebb5d9436f7b","x":-585,"y":109,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[]
 }
