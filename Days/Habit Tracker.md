@@ -125,12 +125,15 @@ columns:
       footer_type: none
       formula_query: ${row.name}
   f_1:
-    input: text
+    input: formula
     accessorKey: f_1
     key: f_1
     id: f_1
     label: f 1
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -139,6 +142,7 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
+      formula_query: ${db.js.isSectionExist(row,row.name)}
 config:
   remove_field_when_delete_column: false
   cell_size: compact
