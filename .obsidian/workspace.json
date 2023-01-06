@@ -11,33 +11,19 @@
             "id": "315f65372be3c450",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Whatever/College Research.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2be261f8c29148b",
-            "type": "leaf",
-            "state": {
               "type": "canvas",
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": -541.5,
-                  "y": -226,
-                  "zoom": 0,
+                  "x": -426,
+                  "y": 173,
+                  "zoom": -0.324542546056095,
                   "snapToGrid": false
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,17 +163,17 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "c2be261f8c29148b",
+  "active": "315f65372be3c450",
   "lastOpenFiles": [
     "Whatever/College Research.md",
     "Dashboard.canvas",
+    "Whatever/Therapy Notes.md",
     "Untitled.md",
     "Whatever/SAT Studying.md",
     "Days/Habit Tracker.md",
     "Days/2023-Jan-06-Fri.md",
     "Templates/Daily Note.md",
     "conflict-files-obsidian-git.md",
-    "Days/2023-Jan-07-Sat.md",
-    "Days/2023-Jan-05-Thu.md"
+    "Days/2023-Jan-07-Sat.md"
   ]
 }
