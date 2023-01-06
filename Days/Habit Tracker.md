@@ -5,7 +5,7 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
+name: Habit Tracker
 description: new description
 columns:
   __file__:
