@@ -124,12 +124,15 @@ columns:
       task_hide_completed: true
       footer_type: none
   c:
-    input: text
+    input: formula
     accessorKey: c
     key: c
     id: c
     label: c
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -138,6 +141,7 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
+      formula_query: ${values}
 config:
   remove_field_when_delete_column: false
   cell_size: compact
