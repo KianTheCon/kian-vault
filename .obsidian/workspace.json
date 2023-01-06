@@ -28,8 +28,8 @@
               "state": {
                 "file": "Dashboard.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": -541.5,
+                  "y": -226,
                   "zoom": 0,
                   "snapToGrid": false
                 }
@@ -179,15 +179,15 @@
   },
   "active": "c2be261f8c29148b",
   "lastOpenFiles": [
-    "Untitled.md",
     "Whatever/College Research.md",
+    "Dashboard.canvas",
+    "Untitled.md",
     "Whatever/SAT Studying.md",
     "Days/Habit Tracker.md",
     "Days/2023-Jan-06-Fri.md",
     "Templates/Daily Note.md",
     "conflict-files-obsidian-git.md",
     "Days/2023-Jan-07-Sat.md",
-    "Days/2023-Jan-05-Thu.md",
-    "Days/test.md"
+    "Days/2023-Jan-05-Thu.md"
   ]
 }
