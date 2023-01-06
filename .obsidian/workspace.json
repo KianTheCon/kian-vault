@@ -26,20 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calendar.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcf03fd83bcf50ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calendar.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar.md"
+                "file": "Home.md"
               }
             }
           }
@@ -178,15 +165,15 @@
   },
   "active": "548d006b3d1949fa",
   "lastOpenFiles": [
-    "2023-Jan-06th-Fri.md",
     "Calendar.md",
+    "Home.md",
+    "Days/2023-Jan-06th-Fri.md",
+    "2023-Jan-06th-Fri.md",
     "2020 07 01.md",
     "Whatever/SAT Studying.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Whatever/Therapy Notes.md",
-    "Untitled.md",
-    "Testing.md",
-    "2022-10-18.md"
+    "Testing.md"
   ]
 }
