@@ -86,6 +86,44 @@ columns:
       task_hide_completed: true
       footer_type: none
       formula_query: ${db.js.isSectionExist(row, row.No_Prone)}
+  t:
+    input: formula
+    accessorKey: t
+    key: t
+    id: t
+    label: t
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      formula_query: ${row.File}
+  a:
+    input: formula
+    accessorKey: a
+    key: a
+    id: a
+    label: a
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      formula_query: ${row.No_Prone}
 config:
   remove_field_when_delete_column: false
   cell_size: compact
