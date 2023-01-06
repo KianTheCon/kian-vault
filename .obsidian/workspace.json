@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,11 +157,11 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "548d006b3d1949fa",
+  "active": "3ba5c22c722bef63",
   "lastOpenFiles": [
+    "Days/2023-Jan-06-Fri.md",
     "Days/2023-Jan-07-Sat.md",
     "Days/Habit Tracker.md",
-    "Days/2023-Jan-06-Fri.md",
     "Days/2023-Jan-05-Thu.md",
     "Untitled.md",
     "Dash.md",
