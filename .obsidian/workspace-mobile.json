@@ -11,12 +11,9 @@
             "id": "076c26a8a92344c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Days/2023-Jan-06-Fri.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Days/Habit Tracker.md"
               }
             }
           }
@@ -86,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Days/2023-Jan-06-Fri.md",
+            "file": "Days/Habit Tracker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Days/2023-Jan-06-Fri.md",
+            "file": "Days/Habit Tracker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Days/2023-Jan-06-Fri.md"
+            "file": "Days/Habit Tracker.md"
           }
         }
       }
@@ -124,6 +121,7 @@
   },
   "active": "076c26a8a92344c5",
   "lastOpenFiles": [
+    "Days/2023-Jan-06-Fri.md",
     "Days/Habit Tracker.md",
     "Whatever/Therapy Notes.md",
     "Whatever/SAT Studying.md",
