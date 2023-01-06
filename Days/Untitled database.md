@@ -5,8 +5,8 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
-description: new description
+name: Habit Tracker
+description: 
 columns:
   column1:
     input: text
@@ -32,6 +32,9 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
+    position: 0
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
