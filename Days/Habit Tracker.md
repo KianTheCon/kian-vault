@@ -48,7 +48,7 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: formula
-      footer_formula: ${test}
+      footer_formula: ${colValues}
   c:
     input: formula
     accessorKey: c
