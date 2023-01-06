@@ -24,16 +24,14 @@
             "id": "4bb322dc193ea913",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Whatever/College Research.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Days/Habit Tracker.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Days/2023-Jan-06-Fri.md",
+                "file": "Days/Habit Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Days/2023-Jan-06-Fri.md",
+                "file": "Days/Habit Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Days/2023-Jan-06-Fri.md"
+                "file": "Days/Habit Tracker.md"
               }
             }
           },
@@ -173,15 +171,15 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "101caf4a4019e0a3",
+  "active": "548d006b3d1949fa",
   "lastOpenFiles": [
-    "Days/2023-Jan-07-Sat.md",
+    "Whatever/College Research.md",
     "Days/2023-Jan-06-Fri.md",
+    "Days/2023-Jan-07-Sat.md",
     "Days/2023-Jan-05-Thu.md",
     "Days/Habit Tracker.md",
     "Days/test.md",
     "Dash.md",
-    "Whatever/College Research.md",
     "Untitled.canvas",
     "Whatever/Therapy Notes.md",
     "Whatever/SAT Studying.md"
