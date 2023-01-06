@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 2
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -35,7 +35,7 @@ columns:
     key: No_Prone
     id: Prone
     label: No Prone
-    position: 3
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -54,7 +54,7 @@ columns:
     key: a
     id: a
     label: a
-    position: 7
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -73,7 +73,44 @@ columns:
     key: name
     id: name
     label: name
-    position: 1
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+  f:
+    input: formula
+    accessorKey: f
+    key: f
+    id: f
+    label: f
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      formula_query: ${row.name}
+  b:
+    input: text
+    accessorKey: b
+    key: b
+    id: b
+    label: b
+    position: 100
     config:
       enable_media_view: true
       link_alias_enabled: true
