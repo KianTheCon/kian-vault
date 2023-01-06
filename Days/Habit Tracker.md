@@ -45,7 +45,7 @@ columns:
       isInline: true
       task_hide_completed: true
       footer_type: formula
-      footer_formula: "${JSON.stringify(\"Current Streak:\")}"
+      footer_formula: "${(function() {return \"Current Streak:\";})()}"
 config:
   remove_field_when_delete_column: false
   cell_size: normal
