@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2023-Jan-05-Thu.md",
+                "file": "Home.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Days/2023-Jan-05-Thu.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Days/2023-Jan-05-Thu.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Days/2023-Jan-05-Thu.md"
+                "file": "Home.md"
               }
             }
           },
@@ -161,10 +161,10 @@
   },
   "active": "6ed871eca1e73c23",
   "lastOpenFiles": [
+    "Days/2023-Jan-05-Thu.md",
     "Days/Habit Tracker.md",
     "Days/2023-Jan-07-Sat.md",
     "Days/2023-Jan-06-Fri.md",
-    "Days/2023-Jan-05-Thu.md",
     "Calendar.md",
     "Templates/Daily Note.md",
     "Home.md",
