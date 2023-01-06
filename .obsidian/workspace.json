@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b483b99a84ac7ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Whatever/SAT Studying.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Whatever/SAT Studying.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Whatever/SAT Studying.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -149,11 +163,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ed871eca1e73c23",
+  "active": "b483b99a84ac7ece",
   "lastOpenFiles": [
+    "Whatever/SAT Studying.md",
     "Whatever/Therapy Notes.md",
     "Untitled.md",
-    "Whatever/SAT Studying.md",
     "Testing.md",
     "2022-10-18.md",
     "Untitled 1.md"
