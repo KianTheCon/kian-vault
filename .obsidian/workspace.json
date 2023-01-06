@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whatever/SAT Studying.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b483b99a84ac7ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Days/Habit Tracker.md",
+                "file": "Days/2023-Jan-05-Thu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Days/Habit Tracker.md",
+                "file": "Days/2023-Jan-05-Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Days/Habit Tracker.md",
+                "file": "Days/2023-Jan-05-Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Days/Habit Tracker.md"
+                "file": "Days/2023-Jan-05-Thu.md"
               }
             }
           },
@@ -173,17 +159,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "b483b99a84ac7ece",
+  "active": "6ed871eca1e73c23",
   "lastOpenFiles": [
     "Days/2023-Jan-06-Fri.md",
     "Days/Habit Tracker.md",
-    "Calendar.md",
     "Days/2023-Jan-05-Thu.md",
+    "Whatever/SAT Studying.md",
+    "Calendar.md",
     "Templates/Daily Note.md",
     "Days/2023-Jan-05th-Thu.md",
     "Days/2023-Jan-06th-Fri.md",
     "Home.md",
-    "2023-Jan-06th-Fri.md",
-    "2020 07 01.md"
+    "2023-Jan-06th-Fri.md"
   ]
 }
