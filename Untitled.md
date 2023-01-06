@@ -1,7 +1,4 @@
-```dataviewjs
-
-<a class="weatherwidget-io" href="https://forecast7.com/en/33d05n117d28/92024/?unit=us" data-label_1="ENCINITAS" data-label_2="WEATHER" data-theme="retro-sky" >ENCINITAS WEATHER</a>
-<script>
+<html><head></head><body><a class="weatherwidget-io" href="https://forecast7.com/en/33d05n117d28/92024/?unit=us" data-label_1="ENCINITAS" data-label_2="WEATHER" data-theme="retro-sky" style="display: block; position: relative; height: 98px; padding: 0px; overflow: hidden; text-align: left; text-indent: -299rem;">ENCINITAS WEATHER<iframe id="weatherwidget-io-0" class="weatherwidget-io-frame" title="Weather Widget" scrolling="no" frameborder="0" width="100%" src="https://weatherwidget.io/w/" style="display: block; position: absolute; top: 0px; height: 98px;"></iframe></a>
+<script id="weatherwidget-io-js" src="https://weatherwidget.io/js/widget.min.js"></script><script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script>
-```
+</script></body></html>
