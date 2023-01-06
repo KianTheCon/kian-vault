@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Whatever/Therapy Notes.md",
+                "file": "Dash.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Whatever/Therapy Notes.md",
+                "file": "Dash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Whatever/Therapy Notes.md",
+                "file": "Dash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Whatever/Therapy Notes.md"
+                "file": "Dash.md"
               }
             }
           }
@@ -153,15 +153,15 @@
   },
   "active": "6ed871eca1e73c23",
   "lastOpenFiles": [
-    "Dash.md",
+    "Untitled.canvas",
     "Whatever/Therapy Notes.md",
+    "Dash.md",
     "Whatever/SAT Studying.md",
     "Days/2023-Jan-06-Fri.md",
     "Days/2023-Jan-05-Thu.md",
     "Days/Habit Tracker.md",
     "Templates/Daily Note.md",
     "Days/2023-Jan-07-Sat.md",
-    "Calendar.md",
-    "Untitled.canvas"
+    "Calendar.md"
   ]
 }
