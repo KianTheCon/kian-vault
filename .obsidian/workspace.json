@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ee18a090ffe3d23f",
+        "id": "5f9a4095e707e725",
         "type": "tabs",
         "children": [
           {
-            "id": "bd9a1c1371387e12",
+            "id": "17baea651f77208d",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Days/Habit Tracker.md"
+                "file": "Days/2023-Jan-05-Thu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Days/Habit Tracker.md",
+                "file": "Days/2023-Jan-05-Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Days/Habit Tracker.md",
+                "file": "Days/2023-Jan-05-Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Days/Habit Tracker.md"
+                "file": "Days/2023-Jan-05-Thu.md"
               }
             }
           },
@@ -157,11 +160,11 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "bd9a1c1371387e12",
+  "active": "17baea651f77208d",
   "lastOpenFiles": [
     "Days/Habit Tracker.md",
-    "Days/2023-Jan-07-Sat.md",
     "Days/2023-Jan-06-Fri.md",
+    "Days/2023-Jan-07-Sat.md",
     "Days/test.md",
     "Days/2023-Jan-05-Thu.md",
     "Dash.md",
