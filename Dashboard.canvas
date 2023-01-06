@@ -5,8 +5,8 @@
 		{"id":"c229edaefe961040","x":480,"y":-369,"width":50,"height":1015,"color":"3","type":"text","text":""},
 		{"id":"9448065477733747","x":-1401,"y":-420,"width":1881,"height":51,"color":"3","type":"text","text":""},
 		{"id":"a3d54c39b4d94baa","x":-1310,"y":139,"width":379,"height":400,"type":"file","file":"Days/Habit Tracker.md"},
-		{"id":"0bbff087b375433e","x":-791,"y":139,"width":400,"height":400,"type":"file","file":"Whatever/College Research.md"},
-		{"id":"b8387b9b9ebb4eb2","x":-585,"y":109,"width":250,"height":60,"type":"text","text":""}
+		{"id":"5b3acbdc13bbf1d4","x":-895,"y":-220,"width":732,"height":718,"color":"3","type":"group","label":"Main"},
+		{"id":"0bbff087b375433e","x":-617,"y":69,"width":400,"height":400,"type":"file","file":"Whatever/College Research.md"}
 	],
 	"edges":[]
 }

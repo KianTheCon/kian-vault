@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Whatever/College Research.md",
+                "file": "Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Whatever/College Research.md",
+                "file": "Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Whatever/College Research.md"
+                "file": "Dashboard.canvas"
               }
             }
           },
@@ -163,13 +163,13 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "767cb217ce4b2224",
+  "active": "548d006b3d1949fa",
   "lastOpenFiles": [
-    "Days/Habit Tracker.md",
-    "Dashboard.canvas",
-    "Habit Tracker.md",
     "Whatever/Therapy Notes.md",
     "Whatever/College Research.md",
+    "Dashboard.canvas",
+    "Days/Habit Tracker.md",
+    "Habit Tracker.md",
     "Whatever/SAT Studying.md",
     "Days/2023-Jan-06-Fri.md",
     "Templates/Daily Note.md",
