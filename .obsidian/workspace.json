@@ -24,9 +24,12 @@
             "id": "f63a242f3c72d189",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Days/Habit Tracker.md"
+                "file": "Days/Habit Tracker.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }

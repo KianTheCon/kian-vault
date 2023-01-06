@@ -67,7 +67,7 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      formula_query: ${row.No_Prone}
+      formula_query: ${!row.No_Prone}
   name:
     input: text
     accessorKey: name
@@ -141,7 +141,7 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      formula_query: ${false}
+      formula_query: ${values.toString()}
 config:
   remove_field_when_delete_column: false
   cell_size: compact
