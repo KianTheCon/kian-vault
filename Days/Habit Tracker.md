@@ -23,14 +23,7 @@ columns:
       media_height: 100
       isInline: false
       footer_type: formula
-      footer_formula: "${(function() {
-    var c = 0;
-    // calculate a
-    for(var i = 0; i < values.length; i++) {
-       c = values[i] ? c + 1: 0;
-    }
-    return c;
-})()}"
+      footer_formula: "${(function() {var c = 0;for(var i = 0; i < values.length; i++) {c = values[i] ? c + 1: 0;}return c;})()}"
   __file__:
     key: __file__
     id: __file__
