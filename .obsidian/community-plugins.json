@@ -1,9 +1,9 @@
 [
   "obsidian-git",
   "table-editor-obsidian",
-  "calendar",
   "templater-obsidian",
   "dbfolder",
   "dataview",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-jump-to-date-plugin"
 ]

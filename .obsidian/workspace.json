@@ -126,14 +126,6 @@
                 "file": "Days/Habit Tracker.md"
               }
             }
-          },
-          {
-            "id": "f47798f326fef473",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -152,7 +144,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false
+      "dbfolder:Create a new database table": false,
+      "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
   "active": "6ed871eca1e73c23",
