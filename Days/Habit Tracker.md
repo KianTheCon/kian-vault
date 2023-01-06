@@ -44,7 +44,8 @@ columns:
       media_height: 100
       isInline: true
       task_hide_completed: true
-      footer_type: none
+      footer_type: formula
+      footer_formula: ${JSON.stringify(obj)}
 config:
   remove_field_when_delete_column: false
   cell_size: normal
