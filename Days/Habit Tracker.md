@@ -55,6 +55,9 @@ columns:
     id: Streak
     label: Streak
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
