@@ -6,7 +6,7 @@ database-plugin: basic
 
 ```yaml:dbfolder
 name: Habit Tracker
-description: new description
+description: Habit Tracker
 columns:
   __file__:
     key: __file__
@@ -49,7 +49,7 @@ columns:
 config:
   remove_field_when_delete_column: false
   cell_size: normal
-  sticky_first_column: false
+  sticky_first_column: true
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
