@@ -1,4 +1,22 @@
-<html><head></head><body><a class="weatherwidget-io" href="https://forecast7.com/en/33d05n117d28/92024/?unit=us" data-label_1="ENCINITAS" data-label_2="WEATHER" data-theme="retro-sky" style="display: block; position: relative; height: 98px; padding: 0px; overflow: hidden; text-align: left; text-indent: -299rem;">ENCINITAS WEATHER<iframe id="weatherwidget-io-0" class="weatherwidget-io-frame" title="Weather Widget" scrolling="no" frameborder="0" width="100%" src="https://weatherwidget.io/w/" style="display: block; position: absolute; top: 0px; height: 98px;"></iframe></a>
-<script id="weatherwidget-io-js" src="https://weatherwidget.io/js/widget.min.js"></script><script>
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
-</script></body></html>
+<html><head><script id="tomorrow-sdk" src="https://www.tomorrow.io/v1/widget/sdk/sdk.bundle.min.js"></script><script>
+        (function(d, s, id) {
+            if (d.getElementById(id)) {
+                if (window.__TOMORROW__) {
+                    window.__TOMORROW__.renderWidget();
+                }
+                return;
+            }
+            const fjs = d.getElementsByTagName(s)[0];
+            const js = d.createElement(s);
+            js.id = id;
+            js.src = "https://www.tomorrow.io/v1/widget/sdk/sdk.bundle.min.js";
+
+            fjs.parentNode.insertBefore(js, fjs);
+        })(document, 'script', 'tomorrow-sdk');
+        </script>
+
+        </head><body><div class="tomorrow" data-location-id="116118" data-language="EN" data-unit-system="IMPERIAL" data-skin="light" data-widget-type="aqiPollutant" style="padding-bottom:22px;position:relative;" data-rendered="true">
+          <a href="https://www.tomorrow.io/weather-api/" rel="nofollow noopener noreferrer" target="_blank" style="position: absolute; bottom: 0; transform: translateX(-50%); left: 50%;">
+            <img alt="Powered by the Tomorrow.io Weather API" src="https://weather-website-client.tomorrow.io/img/powered-by.svg" width="250" height="18">
+          </a>
+        <iframe allowfullscreen="true" scrolling="no" data-location-id="116118" data-language="EN" data-unit-system="IMPERIAL" data-skin="light" data-widget-type="aqiPollutant" data-sdk-load-id="64e0677e-39a4-4c6c-961a-284e7c35249f" style="width: 100%; height: 152px; border: 0px;"></iframe></div></body></html>
