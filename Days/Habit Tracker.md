@@ -88,7 +88,7 @@ config:
   current_row_template: 
   pagination_size: 10
   font_size: 16
-  enable_js_formulas: false
+  enable_js_formulas: true
   formula_folder_path: /
   inline_default: false
   inline_new_position: last_field
