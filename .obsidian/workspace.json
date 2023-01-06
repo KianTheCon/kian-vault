@@ -21,9 +21,12 @@
             "id": "f63a242f3c72d189",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Days/Habit Tracker.md"
+                "file": "Days/2023-Jan-07-Sat.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Days/Habit Tracker.md",
+                "file": "Days/2023-Jan-07-Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Days/Habit Tracker.md",
+                "file": "Days/2023-Jan-07-Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Days/Habit Tracker.md"
+                "file": "Days/2023-Jan-07-Sat.md"
               }
             }
           }
@@ -162,10 +165,10 @@
   },
   "active": "f63a242f3c72d189",
   "lastOpenFiles": [
-    "Days/2023-Jan-07-Sat.md",
     "Days/2023-Jan-06-Fri.md",
-    "Days/2023-Jan-05-Thu.md",
+    "Days/2023-Jan-07-Sat.md",
     "Days/Habit Tracker.md",
+    "Days/2023-Jan-05-Thu.md",
     "Untitled.md",
     "Dash.md",
     "Untitled.canvas",
