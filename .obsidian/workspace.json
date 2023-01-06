@@ -11,8 +11,10 @@
             "id": "42148afa043db71b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "Days/Habit Tracker.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Days/Habit Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Days/Habit Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Days/Habit Tracker.md"
+              }
             }
           },
           {
@@ -152,9 +158,9 @@
   },
   "active": "42148afa043db71b",
   "lastOpenFiles": [
-    "Days/2023-Jan-07-Sat.md",
-    "Days/Habit Tracker.md",
     "Days/2023-Jan-06-Fri.md",
+    "Days/Habit Tracker.md",
+    "Days/2023-Jan-07-Sat.md",
     "Days/test.md",
     "Days/2023-Jan-05-Thu.md",
     "Dash.md",
