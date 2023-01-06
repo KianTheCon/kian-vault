@@ -3,8 +3,8 @@
   "min_depth": 2,
   "max_depth": 6,
   "externalStyle": "TOC",
-  "supportAllMatchers": false,
-  "allow_inconsistent_headings": false,
+  "supportAllMatchers": true,
+  "allow_inconsistent_headings": true,
   "title": "Contents",
   "delimiter": "-"
 }
