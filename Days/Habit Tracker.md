@@ -104,7 +104,25 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      formula_query: ${row.name}
+      formula_query: "${row.Date.toFormat(\"y\")}"
+  Date:
+    input: calendar
+    accessorKey: Date
+    key: Date
+    id: date
+    label: Date
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
 config:
   remove_field_when_delete_column: false
   cell_size: compact
