@@ -24,9 +24,12 @@
             "id": "b483b99a84ac7ece",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Days/Untitled database.md"
+                "file": "Days/Habit Tracker.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Days/Untitled database.md",
+                "file": "Days/Habit Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Days/Untitled database.md",
+                "file": "Days/Habit Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Days/Untitled database.md"
+                "file": "Days/Habit Tracker.md"
               }
             }
           },
@@ -173,6 +176,7 @@
   "active": "b483b99a84ac7ece",
   "lastOpenFiles": [
     "Days/2023-Jan-06-Fri.md",
+    "Days/Habit Tracker.md",
     "Calendar.md",
     "Days/2023-Jan-05-Thu.md",
     "Templates/Daily Note.md",
@@ -180,7 +184,6 @@
     "Days/2023-Jan-06th-Fri.md",
     "Home.md",
     "2023-Jan-06th-Fri.md",
-    "2020 07 01.md",
-    "Whatever/SAT Studying.md"
+    "2020 07 01.md"
   ]
 }
