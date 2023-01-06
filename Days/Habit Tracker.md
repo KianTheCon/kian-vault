@@ -29,16 +29,17 @@ columns:
       isInline: true
       task_hide_completed: true
       footer_type: none
-  Prone:
+  No_Prone:
     input: checkbox
-    accessorKey: Prone
-    key: Prone
+    accessorKey: No_Prone
+    key: No_Prone
     id: Prone
     label: No Prone
     position: 100
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    nestedKey: 
     config:
       enable_media_view: true
       link_alias_enabled: true
