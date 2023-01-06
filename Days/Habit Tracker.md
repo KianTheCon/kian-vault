@@ -143,7 +143,7 @@ columns:
       footer_type: none
       formula_query: ${JSON.stringify(row)}
   f:
-    input: text
+    input: formula
     accessorKey: f
     key: f
     id: f
