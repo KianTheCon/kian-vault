@@ -47,89 +47,15 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
-      footer_type: none
-  a:
-    input: formula
-    accessorKey: a
-    key: a
-    id: a
-    label: a
-    position: 4
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 100
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      formula_query: ${!row.No_Prone}
-  name:
-    input: text
-    accessorKey: name
-    key: name
-    id: name
-    label: name
-    position: 3
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-  b:
-    input: formula
-    accessorKey: b
-    key: b
-    id: b
-    label: b
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      formula_query: "${row.Date.toFormat(\"y\")}"
-  Date:
-    input: calendar
-    accessorKey: Date
-    key: Date
-    id: date
-    label: Date
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
+      footer_type: formula
+      footer_formula: JSON.stringify(row)
   c:
     input: formula
     accessorKey: c
     key: c
     id: c
     label: c
-    position: 100
+    position: 5
     skipPersist: false
     isHidden: true
     sortIndex: -1
@@ -142,24 +68,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       formula_query: ${JSON.stringify(row)}
-  f:
-    input: formula
-    accessorKey: f
-    key: f
-    id: f
-    label: f
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
 config:
   remove_field_when_delete_column: false
   cell_size: compact
@@ -187,7 +95,7 @@ config:
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
-  enable_footer: false
+  enable_footer: true
 filters:
   enabled: false
   conditions:
