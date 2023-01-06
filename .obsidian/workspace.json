@@ -11,13 +11,33 @@
             "id": "315f65372be3c450",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Days/Habit Tracker.md"
+                "file": "Whatever/College Research.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2be261f8c29148b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0,
+                  "snapToGrid": false
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Days/Habit Tracker.md",
+                "file": "Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Days/Habit Tracker.md",
+                "file": "Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Days/Habit Tracker.md"
+                "file": "Dashboard.canvas"
               }
             }
           },
@@ -157,17 +177,17 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "315f65372be3c450",
+  "active": "c2be261f8c29148b",
   "lastOpenFiles": [
-    "Days/2023-Jan-06-Fri.md",
-    "Days/Habit Tracker.md",
+    "Untitled.md",
     "Whatever/College Research.md",
     "Whatever/SAT Studying.md",
+    "Days/Habit Tracker.md",
+    "Days/2023-Jan-06-Fri.md",
     "Templates/Daily Note.md",
     "conflict-files-obsidian-git.md",
     "Days/2023-Jan-07-Sat.md",
     "Days/2023-Jan-05-Thu.md",
-    "Days/test.md",
-    "Dash.md"
+    "Days/test.md"
   ]
 }
