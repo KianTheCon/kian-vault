@@ -57,7 +57,7 @@ columns:
     label: c
     position: 5
     skipPersist: false
-    isHidden: true
+    isHidden: false
     sortIndex: -1
     config:
       enable_media_view: true
