@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 2
     isHidden: false
     sortIndex: -1
     config:
@@ -35,7 +35,7 @@ columns:
     key: No_Prone
     id: Prone
     label: No Prone
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -48,70 +48,13 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-  Streak:
-    input: formula
-    accessorKey: Streak
-    key: Streak
-    id: Streak
-    label: Streak
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      formula_query: "${db.js.isSectionExist(row,\"my section\")}"
-  f:
-    input: formula
-    accessorKey: f
-    key: f
-    id: f
-    label: f
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      formula_query: ${db.js.isSectionExist(row, row.No_Prone)}
-  t:
-    input: formula
-    accessorKey: t
-    key: t
-    id: t
-    label: t
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      formula_query: ${row.File}
   a:
     input: formula
     accessorKey: a
     key: a
     id: a
     label: a
-    position: 100
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -124,6 +67,21 @@ columns:
       task_hide_completed: true
       footer_type: none
       formula_query: ${row.No_Prone}
+  name:
+    input: text
+    accessorKey: name
+    key: name
+    id: name
+    label: name
+    position: 1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
 config:
   remove_field_when_delete_column: false
   cell_size: compact
