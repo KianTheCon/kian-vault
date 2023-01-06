@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96590ecdd63b99fa",
+        "id": "be78828b45ea11d9",
         "type": "tabs",
         "children": [
           {
-            "id": "315f65372be3c450",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Days/Habit Tracker.md"
-              }
-            }
-          },
-          {
-            "id": "92f611ef7253a25d",
+            "id": "767cb217ce4b2224",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -33,8 +23,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Whatever/College Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.canvas",
+                "file": "Whatever/College Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.canvas"
+                "file": "Whatever/College Research.md"
               }
             }
           },
@@ -174,7 +163,7 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "92f611ef7253a25d",
+  "active": "767cb217ce4b2224",
   "lastOpenFiles": [
     "Days/Habit Tracker.md",
     "Dashboard.canvas",
