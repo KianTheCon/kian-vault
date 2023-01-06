@@ -30,12 +30,15 @@ columns:
       task_hide_completed: true
       footer_type: none
   Prone:
-    input: text
+    input: checkbox
     accessorKey: Prone
     key: Prone
     id: Prone
-    label: Prone
+    label: No Prone
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
