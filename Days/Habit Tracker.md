@@ -23,7 +23,7 @@ columns:
       media_height: 100
       isInline: false
       footer_type: formula
-      footer_formula: ${JSON.stringify(values)}
+      footer_formula: ${JSON.stringify(values[0])}
   __file__:
     key: __file__
     id: __file__
