@@ -141,7 +141,7 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      formula_query: ${JSON.stringify(row)}
+      formula_query: ${JSON.stringify(values)}
 config:
   remove_field_when_delete_column: false
   cell_size: compact
