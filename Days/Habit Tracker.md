@@ -8,22 +8,6 @@ database-plugin: basic
 name: new database
 description: new description
 columns:
-  column1:
-    input: checkbox
-    key: column1
-    accessorKey: column1
-    label: No Prone
-    position: 2
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      footer_type: formula
-      footer_formula: "${(function() {var c = 0;for(var i = 0; i < values.length; i++) {c = values[i] ? c + 1: 0;}return c;})()}"
   __file__:
     key: __file__
     id: __file__
@@ -46,6 +30,22 @@ columns:
       task_hide_completed: true
       footer_type: formula
       footer_formula: "${(function() {return \"Current Streak:\";})()}"
+  noprone:
+    input: checkbox
+    key: noprone
+    accessorKey: noprone
+    label: No Prone
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      footer_type: formula
+      footer_formula: "${(function() {var c = 0;for(var i = 0; i < values.length; i++) {c = values[i] ? c + 1: 0;}return c;})()}"
 config:
   remove_field_when_delete_column: false
   cell_size: normal
