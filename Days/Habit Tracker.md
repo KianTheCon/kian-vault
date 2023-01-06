@@ -23,7 +23,7 @@ columns:
       media_height: 100
       isInline: false
       footer_type: formula
-      footer_formula: ${db.js.isSectionExist()}
+      footer_formula: ${db.js.obtainAverage(values)}
   __file__:
     key: __file__
     id: __file__
@@ -67,7 +67,7 @@ config:
   pagination_size: 10
   font_size: 16
   enable_js_formulas: true
-  formula_folder_path: js
+  formula_folder_path: /js
   inline_default: false
   inline_new_position: last_field
   date_format: yyyy-MM-dd
