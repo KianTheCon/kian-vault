@@ -48,6 +48,25 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
+  Streak:
+    input: formula
+    accessorKey: Streak
+    key: Streak
+    id: Streak
+    label: Streak
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      formula_query: "${db.js.isSectionExist(row,\"my section\")}"
 config:
   remove_field_when_delete_column: false
   cell_size: compact
@@ -69,7 +88,7 @@ config:
   pagination_size: 10
   font_size: 16
   enable_js_formulas: true
-  formula_folder_path: /streak.js
+  formula_folder_path: /
   inline_default: false
   inline_new_position: last_field
   date_format: yyyy-MM-dd
