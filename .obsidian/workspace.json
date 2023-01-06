@@ -24,8 +24,13 @@
             "id": "b483b99a84ac7ece",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Days/2023-Jan-05-Thu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Days/2023-Jan-05-Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Days/2023-Jan-05-Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Days/2023-Jan-05-Thu.md"
+              }
             }
           }
         ],
@@ -154,17 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "548d006b3d1949fa",
+  "active": "b483b99a84ac7ece",
   "lastOpenFiles": [
     "Calendar.md",
-    "Home.md",
+    "Days/2023-Jan-05-Thu.md",
+    "Days/2023-Jan-05th-Thu.md",
     "Days/2023-Jan-06th-Fri.md",
+    "Home.md",
     "2023-Jan-06th-Fri.md",
     "2020 07 01.md",
     "Whatever/SAT Studying.md",
     "Untitled 1.md",
-    "Untitled 2.md",
-    "Whatever/Therapy Notes.md",
-    "Testing.md"
+    "Untitled 2.md"
   ]
 }
