@@ -45,7 +45,7 @@ columns:
       isInline: true
       task_hide_completed: true
       footer_type: formula
-      footer_formula: ${JSON.stringify(obj)}
+      footer_formula: ${JSON.stringify(db.js)}
 config:
   remove_field_when_delete_column: false
   cell_size: normal
