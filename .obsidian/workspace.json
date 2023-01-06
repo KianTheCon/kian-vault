@@ -27,12 +27,15 @@
             "id": "e09786080be162ed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -460.5,
+                  "y": 138.5,
+                  "zoom": -0.37871025494006993,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Dashboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Dashboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Dashboard.canvas"
               }
             }
           },
@@ -177,12 +180,12 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "e09786080be162ed",
+  "active": "548d006b3d1949fa",
   "lastOpenFiles": [
+    "Untitled.md",
     "Dashboard.canvas",
     "Whatever/Therapy Notes.md",
     "Whatever/SAT Studying.md",
-    "Untitled.md",
     "Whatever/College Research.md",
     "Days/Habit Tracker.md",
     "Habit Tracker.md",
