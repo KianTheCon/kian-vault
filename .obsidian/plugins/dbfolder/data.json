@@ -1,6 +1,6 @@
 {
   "global_settings": {
-    "enable_debug_mode": true,
+    "enable_debug_mode": false,
     "enable_show_state": true,
     "enable_row_shadow": true,
     "enable_auto_update": true,

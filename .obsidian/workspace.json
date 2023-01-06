@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 200
   },
   "right": {
     "id": "8dae219a6524b839",
@@ -159,9 +159,9 @@
   },
   "active": "42148afa043db71b",
   "lastOpenFiles": [
-    "Days/2023-Jan-06-Fri.md",
-    "Days/Habit Tracker.md",
     "Days/2023-Jan-07-Sat.md",
+    "Days/Habit Tracker.md",
+    "Days/2023-Jan-06-Fri.md",
     "Days/test.md",
     "Days/2023-Jan-05-Thu.md",
     "Dash.md",
