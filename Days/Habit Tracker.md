@@ -66,7 +66,7 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      formula_query: ${row.}
+      formula_query: ${row.No_Prone}
       persist_formula: true
 config:
   remove_field_when_delete_column: false
