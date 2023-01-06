@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"a3d54c39b4d94baa","x":-731,"y":-426,"width":379,"height":400,"type":"file","file":"Days/Habit Tracker.md"},
-		{"id":"cc9daeb44576c70f","x":-1020,"y":-86,"width":389,"height":60,"type":"text","text":""}
+		{"id":"cc9daeb44576c70f","x":-1020,"y":-329,"width":1198,"height":541,"color":"3","type":"text","text":""}
 	],
 	"edges":[]
 }
