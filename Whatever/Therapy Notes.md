@@ -3,4 +3,4 @@
 - ~~Never really learn to stop talking
 - ~~Paranoid
 - Advice about brother saying mean things about himself
-- Masturbating (fixing prone commit)
+- Masturbating (fixing prone commit [[Habit Tracker]])

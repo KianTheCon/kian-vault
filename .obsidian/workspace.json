@@ -129,17 +129,9 @@
                 "file": "Dash.md"
               }
             }
-          },
-          {
-            "id": "0f99c6dfda7976bd",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,7 +151,7 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "0f99c6dfda7976bd",
+  "active": "6ed871eca1e73c23",
   "lastOpenFiles": [
     "Whatever/Therapy Notes.md",
     "Dash.md",
