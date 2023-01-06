@@ -67,7 +67,7 @@ config:
   pagination_size: 10
   font_size: 16
   enable_js_formulas: true
-  formula_folder_path: /js
+  formula_folder_path: /js/streak.js
   inline_default: false
   inline_new_position: last_field
   date_format: yyyy-MM-dd
