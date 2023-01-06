@@ -49,25 +49,6 @@ columns:
       task_hide_completed: true
       footer_type: formula
       footer_formula: ${colValues}
-  c:
-    input: formula
-    accessorKey: c
-    key: c
-    id: c
-    label: c
-    position: 5
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: ${JSON.stringify(row)}
-      formula_query: none
 config:
   remove_field_when_delete_column: false
   cell_size: compact

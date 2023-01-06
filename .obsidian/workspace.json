@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3f4f3b21a651c270",
+        "id": "18f4c019c86cdc20",
         "type": "tabs",
         "children": [
           {
-            "id": "ec3809879f99d0c8",
+            "id": "f53aa235411991ca",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Days/Habit Tracker.md"
+                "file": "Days/Habit Tracker.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -156,17 +159,17 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "ec3809879f99d0c8",
+  "active": "f53aa235411991ca",
   "lastOpenFiles": [
+    "Days/test.md",
     "Days/Habit Tracker.md",
-    "Days/2023-Jan-07-Sat.md",
     "Days/2023-Jan-06-Fri.md",
+    "Days/2023-Jan-07-Sat.md",
     "Days/2023-Jan-05-Thu.md",
     "Dash.md",
     "Untitled.md",
     "Untitled.canvas",
     "Whatever/Therapy Notes.md",
-    "Whatever/SAT Studying.md",
-    "Templates/Daily Note.md"
+    "Whatever/SAT Studying.md"
   ]
 }
