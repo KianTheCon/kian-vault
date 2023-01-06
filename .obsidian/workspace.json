@@ -11,9 +11,12 @@
             "id": "3ba5c22c722bef63",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "Days/Habit Tracker.md"
+                "file": "Days/2023-Jan-06-Fri.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -27,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,8 +141,17 @@
                 "file": "Days/Habit Tracker.md"
               }
             }
+          },
+          {
+            "id": "153b725daf8b1e8b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,7 +171,7 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "3ba5c22c722bef63",
+  "active": "f63a242f3c72d189",
   "lastOpenFiles": [
     "Days/2023-Jan-06-Fri.md",
     "Days/2023-Jan-07-Sat.md",
