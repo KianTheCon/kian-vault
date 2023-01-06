@@ -141,7 +141,7 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      formula_query: ${values.toString()}
+      formula_query: ${db.js}
 config:
   remove_field_when_delete_column: false
   cell_size: compact
