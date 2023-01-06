@@ -142,7 +142,7 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
-      formula_query: ${db.js.isSectionExist(row,row.name)}
+      formula_query: ${db.}
 config:
   remove_field_when_delete_column: false
   cell_size: compact

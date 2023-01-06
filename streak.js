@@ -6,9 +6,8 @@
  * @param {*} sectionString 
  * @returns 
  */
-function isSectionExist(row,sectionString){
-  const headings = app.metadataCache.getFileCache(row.__note__.getFile()).headings;
-  return headings.some(h => h.heading===sectionString);
+function isSectionExist(){
+  return false
 }
 
 module.exports = isSectionExist
