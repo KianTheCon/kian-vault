@@ -1,11 +1,11 @@
 {
   "global_settings": {
-    "enable_debug_mode": true,
+    "enable_debug_mode": false,
     "enable_show_state": true,
     "enable_row_shadow": true,
     "enable_auto_update": true,
     "show_search_bar_by_default": false,
-    "logger_level_info": "debug",
+    "logger_level_info": "error",
     "csv_file_header_key": "File",
     "media_settings": {
       "link_alias_enabled": true,

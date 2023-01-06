@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f68377f472078e9",
+        "id": "e6be58f40cd70e08",
         "type": "tabs",
         "children": [
           {
-            "id": "16b186efa69b1dae",
+            "id": "23f2cafbcb0a859f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "Days/Habit Tracker.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Days/Habit Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Days/Habit Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Days/Habit Tracker.md"
+              }
             }
           },
           {
@@ -151,7 +157,7 @@
       "obsidian-jump-to-date-plugin:Jump-to-Date": false
     }
   },
-  "active": "16b186efa69b1dae",
+  "active": "23f2cafbcb0a859f",
   "lastOpenFiles": [
     "Days/Habit Tracker.md",
     "Days/2023-Jan-07-Sat.md",
