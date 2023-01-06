@@ -6,5 +6,6 @@
   "supportAllMatchers": false,
   "allow_inconsistent_headings": true,
   "title": "Contents",
-  "delimiter": "-"
+  "delimiter": "-",
+  "varied_style": true
 }
