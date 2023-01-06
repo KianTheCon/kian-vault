@@ -39,6 +39,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 100
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -47,6 +48,22 @@ columns:
       isInline: false
       task_hide_completed: true
       footer_type: none
+  Streak:
+    input: formula
+    accessorKey: Streak
+    key: Streak
+    id: Streak
+    label: Streak
+    position: 100
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      formula_query: db.js.myFunction( arg1, arg2)
 config:
   remove_field_when_delete_column: false
   cell_size: compact
