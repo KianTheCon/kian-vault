@@ -12,7 +12,7 @@ columns:
     input: checkbox
     key: column1
     accessorKey: column1
-    label: Column 1
+    label: No Prone
     position: 2
     skipPersist: false
     isHidden: false
@@ -22,6 +22,8 @@ columns:
       media_width: 100
       media_height: 100
       isInline: false
+      footer_type: formula
+      footer_formula: ${test}
   __file__:
     key: __file__
     id: __file__
@@ -33,6 +35,8 @@ columns:
     isDragDisabled: false
     csvCandidate: true
     position: 1
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -68,7 +72,7 @@ config:
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
-  enable_footer: false
+  enable_footer: true
 filters:
   enabled: false
   conditions:
