@@ -1,7 +1,10 @@
 {
 	"nodes":[
-		{"id":"cc9daeb44576c70f","x":-1380,"y":-300,"width":1908,"height":946,"color":"3","type":"text","text":""},
-		{"id":"a3d54c39b4d94baa","x":-1320,"y":-260,"width":379,"height":400,"type":"file","file":"Days/Habit Tracker.md"}
+		{"id":"a3d54c39b4d94baa","x":-1323,"y":-249,"width":379,"height":400,"type":"file","file":"Days/Habit Tracker.md"},
+		{"id":"cc9daeb44576c70f","x":-1451,"y":-300,"width":50,"height":946,"color":"3","type":"text","text":""},
+		{"id":"8fe0fc56ce3a07f5","x":-1401,"y":646,"width":1881,"height":51,"color":"3","type":"text","text":""},
+		{"id":"c229edaefe961040","x":480,"y":-300,"width":50,"height":946,"color":"3","type":"text","text":""},
+		{"id":"9448065477733747","x":-1401,"y":-420,"width":1881,"height":51,"color":"3","type":"text","text":""}
 	],
 	"edges":[]
 }
