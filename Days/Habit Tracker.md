@@ -45,7 +45,7 @@ columns:
       media_height: 100
       isInline: false
       footer_type: formula
-      footer_formula: "${(function() {var c = 0;for(var i = 0; i < values.length; i++) {c = values[i] ? c + 1: 0;}return c;})()}"
+      footer_formula: "${(function() {var c = 0;for(var i = 0; i < values.length; i++) {c = values[i] ? c + 1: values[i] == null ? c: 0;}return c;})()}"
 config:
   remove_field_when_delete_column: false
   cell_size: normal
