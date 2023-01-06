@@ -1,0 +1,1 @@
+```dataviewjs const {GenNavbar} = customJS; let navbar = this.container.createEl('nav', {cls: ["navbar","card"]}); await GenNavbar.genNavbarMonthly(navbar, dv.current().file.name); ```
