@@ -67,6 +67,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       formula_query: "${db.js.isSectionExist(row,\"my section\")"
+      persist_formula: true
 config:
   remove_field_when_delete_column: false
   cell_size: compact
