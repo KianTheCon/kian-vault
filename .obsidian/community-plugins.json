@@ -4,6 +4,5 @@
   "templater-obsidian",
   "dbfolder",
   "dataview",
-  "obsidian-plugin-toc",
-  "obsidian-jump-to-date-plugin"
+  "obsidian-dynamic-toc"
 ]
