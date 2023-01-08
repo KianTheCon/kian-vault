@@ -1,10 +1,10 @@
 ```toc
 ```
 
-## Majors
-	Computer Engineering
+- ## Majors
+	- Computer Engineering
 		- 
-	Electrical Engineering
+	- Electrical Engineering
 		- 
 	- Computer Science
 		- 
