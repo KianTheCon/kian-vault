@@ -3,4 +3,5 @@
 - ~~Never really learn to stop talking
 - ~~Paranoid
 - Advice about brother saying mean things about himself
+-      Try asking him follow up questions, prying until his argument doesn't make sense
 - Masturbating (fixing prone commit [[Days/Habit Tracker]])
