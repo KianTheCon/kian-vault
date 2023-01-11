@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Days/2023-Jan-06-Fri.md",
+                "file": "Whatever/Therapy Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Days/2023-Jan-06-Fri.md",
+            "file": "Whatever/Therapy Notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Days/2023-Jan-06-Fri.md",
+            "file": "Whatever/Therapy Notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Days/2023-Jan-06-Fri.md"
+            "file": "Whatever/Therapy Notes.md"
           }
         }
       }
@@ -124,6 +124,7 @@
   },
   "active": "076c26a8a92344c5",
   "lastOpenFiles": [
+    "Days/2023-Jan-10-Tue.md",
     "Days/2023-Jan-06-Fri.md",
     "Days/Habit Tracker.md",
     "Whatever/Therapy Notes.md",
